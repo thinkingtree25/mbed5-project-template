@@ -18,7 +18,7 @@ NUCLEO-F401RE (STM32F401RE)
 
 **Test Commands:**
 
-cd mbed5-project-template-main
+cd {Mbed5 Project Directory}
 
 mbed config GCC_ARM_PATH "/home/{USER NAME}/{GNU Arm Embedded Toolchain Directory}/bin"
 
